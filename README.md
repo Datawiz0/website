@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to MagnaDATA(R[Ex])
 
 You can use the [editor on GitHub](https://github.com/Datawiz0/website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
